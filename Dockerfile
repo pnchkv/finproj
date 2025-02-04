@@ -1,6 +1,6 @@
 FROM golang:1.23.1
 
-WORKDIR /fp12
+WORKDIR /finproj
 
 COPY . .
 
