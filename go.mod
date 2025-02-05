@@ -1,4 +1,4 @@
-module github.com/pnchkv/fp12
+module github.com/pnchkv/finproj
 
 go 1.23.1
 

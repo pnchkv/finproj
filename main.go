@@ -22,7 +22,6 @@ type Parcel struct {
 	CreatedAt string
 }
 
-// тестовый коммент
 type ParcelService struct {
 	store ParcelStore
 }
